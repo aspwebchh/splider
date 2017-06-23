@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Doc>
+    <Config>
+        <MailUser>397898691@qq.com</MailUser>
+        <MailPassword>null</MailPassword>
+        <MailSmtpHost>smtp.qq.com</MailSmtpHost>
+        <ToMail>aspwebchh@gmail.com</ToMail>
+    </Config>
+    <Items>
+        <Item id="_NewsView_16735_" title="萧山区5月22日签约数据"/>
+        <Item id="_NewsView_16728_" title="萧山区5月21日签约数据"/>
+        <Item id="_NewsView_16727_" title="萧山区5月20日签约数据"/>
+        <Item id="_NewsView_16724_" title="萧山区5月19日签约数据"/>
+        <Item id="_NewsView_16714_" title="萧山区5月17日签约数据"/>
+        <Item id="_NewsView_16720_" title="萧山区5月18日签约数据"/>
+        <Item id="_NewsView_16740_" title="萧山区5月23日签约数据"/>
+        <Item id="_NewsView_16746_" title="萧山区5月24日签约数据"/>
+        <Item id="_NewsView_16754_" title="萧山区5月25日签约数据"/>
+        <Item id="_NewsView_16757_" title="萧山区5月26日签约数据"/>
+        <Item id="_NewsView_16761_" title="萧山区5月27-28日签约数据"/>
+        <Item id="_NewsView_16764_" title="萧山区5月29日签约数据"/>
+        <Item id="_NewsView_16765_" title="萧山区5月30日签约数据"/>
+        <Item id="_NewsView_16769_" title="萧山区5月31日签约数据"/>
+        <Item id="_NewsView_16777_" title="萧山区6月1日签约数据"/>
+        <Item id="_NewsView_16781_" title="萧山区6月2日签约数据"/>
+        <Item id="_NewsView_16782_" title="萧山区6月3-4日签约数据"/>
+        <Item id="_NewsView_16785_" title="萧山区6月5日签约数据"/>
+        <Item id="_NewsView_16791_" title="萧山区6月6日签约数据"/>
+        <Item id="_NewsView_16796_" title="萧山区6月7日签约数据"/>
+        <Item id="_NewsView_16801_" title="萧山区6月8日签约数据"/>
+        <Item id="_NewsView_16805_" title="萧山区6月9日签约数据"/>
+        <Item id="_NewsView_16808_" title="萧山区6月10日签约数据"/>
+        <Item id="_NewsView_16809_" title="萧山区6月11日签约数据"/>
+        <Item id="_NewsView_16816_" title="萧山区6月12日签约数据"/>
+        <Item id="_NewsView_16823_" title="萧山区6月13日签约数据"/>
+        <Item id="_NewsView_16829_" title="萧山区6月14日签约数据"/>
+        <Item id="_NewsView_16832_" title="萧山区6月15日签约数据"/>
+        <Item id="_NewsView_16836_" title="萧山区6月16日签约数据"/>
+        <Item id="_NewsView_16837_" title="萧山区6月17日签约数据"/>
+        <Item id="_NewsView_16841_" title="萧山区6月18日签约数据"/>
+        <Item id="_NewsView_16845_" title="萧山区6月19日签约数据"/>
+        <Item id="_NewsView_16849_" title="萧山区6月20日签约数据"/>
+        <Item id="_NewsView_16855_" title="萧山区6月21日签约数据"/>
+        <Item id="_NewsView_16863_" title="萧山区6月22日签约数据"/>
+    </Items>
+</Doc>
